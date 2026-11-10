@@ -112,4 +112,4 @@ exige apenas uma nova implementação de `OrderRepository`.
 - [`CONTRIBUTORS.md`](CONTRIBUTORS.md) — quem fez o quê
 - [`docs/desempenho.md`](docs/desempenho.md) — SLO e p95 medido
 - [`docs/ia.md`](docs/ia.md) — prompts de IA que importaram
-- Link da execução verde do CI: _colar aqui após o primeiro run verde no GitHub Actions_
+- Link da execução verde do CI: https://github.com/ArthurMorenoMendonca/pedidos-api/actions/runs/42866499568
