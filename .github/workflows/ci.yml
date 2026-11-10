@@ -31,7 +31,7 @@ jobs:
       - name: Test (com coverage mínimo)
         run: npm run test:coverage
 
-    secrets:
+  secrets:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
